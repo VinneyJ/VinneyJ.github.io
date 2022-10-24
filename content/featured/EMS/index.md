@@ -5,8 +5,8 @@ cover: 'employee.png'
 github: 'https://github.com/VinneyJ/'
 external: ''
 tech:
-  - Python
-  - tweepy
+  - CI/CD(CircleCI, Ansible)
+  - AWS(CloudFormation, S3, EC2, CloudFront, IAM, RDS)
   - Twitter API
 showInProjects: false
 ---
