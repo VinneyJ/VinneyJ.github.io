@@ -1,8 +1,8 @@
 ---
 date: '2020-04-21'
 title: 'Portfolio Website v1'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1'
-external: 'https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/'
+github: 'https://github.com/VinneyJ/VinneyJ.github.io'
+external: 'https://VinneyJ.github.io/'
 tech:
   - HTML
   - CSS
@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!
+Portfolio Website Version 1.0 hosted on GitHub Pages.

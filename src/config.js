@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/otieno-vincent/',
+      url: 'https://www.linkedin.com/in/vincent-otieno1/',
     },
 
   ],
@@ -43,7 +43,7 @@ module.exports = {
       url: '/#contact',
     },
     {
-      name: 'Memories',
+      name: 'Pensieve',
       url: '/pensieve',
     },
   ],
