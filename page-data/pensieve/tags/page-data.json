@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-pensieve-tags-js",
+    "path": "/pensieve/tags/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Vincent Otieno | Software Engineer | DevOps Engineer | Content Writer"}},"allMarkdownRemark":{"group":[{"fieldValue":"Docker","totalCount":1},{"fieldValue":"WordPress","totalCount":1},{"fieldValue":"array","totalCount":2},{"fieldValue":"dsa","totalCount":2},{"fieldValue":"easy","totalCount":2},{"fieldValue":"flowchart","totalCount":1},{"fieldValue":"hashing","totalCount":2},{"fieldValue":"python3","totalCount":2},{"fieldValue":"sequence-diagram","totalCount":1},{"fieldValue":"system-design","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["3115057458"]}

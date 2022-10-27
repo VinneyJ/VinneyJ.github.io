@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://vinneyj.github.io/sitemap/sitemap-index.xml
+Host: https://vinneyj.github.io

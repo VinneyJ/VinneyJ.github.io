@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/pensieve/tags/sequence-diagram/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Designing URL shortener","description":"Designing a url shortener","date":"2022-07-14","slug":"/pensieve/url-shortener","tags":["system-design","flowchart","sequence-diagram"]}}}]}},"pageContext":{"tag":"sequence-diagram"}},
+    "staticQueryHashes": ["3115057458"]}
