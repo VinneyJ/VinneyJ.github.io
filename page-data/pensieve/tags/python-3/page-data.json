@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tag-js",
     "path": "/pensieve/tags/python-3/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"frontmatter":{"title":"Contains Duplicate I","description":"Finding if an array contains any duplicates.","date":"2022-10-23","slug":"/pensieve/contains-duplicate-1","tags":["dsa","python3","array","easy","hashing"]}}},{"node":{"frontmatter":{"title":"Two Sum Problem","description":"Finding indices of the target sum in an array","date":"2022-10-23","slug":"/pensieve/two-sum","tags":["dsa","python3","array","hashing","easy"]}}}]}},"pageContext":{"tag":"python3"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"frontmatter":{"title":"Two Sum Problem","description":"Finding indices of the target sum in an array","date":"2022-10-23","slug":"/pensieve/two-sum","tags":["dsa","python3","array","hashing","easy"]}}},{"node":{"frontmatter":{"title":"Contains Duplicate I","description":"Finding if an array contains any duplicates.","date":"2022-10-23","slug":"/pensieve/contains-duplicate-1","tags":["dsa","python3","array","easy","hashing"]}}}]}},"pageContext":{"tag":"python3"}},
     "staticQueryHashes": ["3115057458"]}
