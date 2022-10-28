@@ -13,4 +13,4 @@ company: ''
 showInProjects: true
 ---
 
-Collection of small code gists along my Golang learning journey
+- Sklearn model micro-service that has been trained to predict housing prices according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. Containerized the machine learning microservice on docker and deployed it into a Kubernetes cluster.
