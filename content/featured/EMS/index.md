@@ -15,12 +15,3 @@ showInProjects: false
 ---
 
 Utilized a CI/CD pipeline to build, test, analyze, create infrastructure, configure infrastructure and deploy the project on AWS using Clouformation.
-
-
-- Nodejs
-- Typescript
-- Circle CI
-- Ansible
-- AWS(CloudFormation, EC2 Instance, S3 buckets, CloudFront, IAM)
-- Prometheus for monitoring
-- Slack for alerts

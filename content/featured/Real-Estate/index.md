@@ -13,5 +13,5 @@ tech:
   - Postgresql
 showInProjects: false
 ---
-I was motivated to work on this project by the fact that anytime I looked for a house to live in, It becomes hard to work with agents because some of the are out to scam people. So this platform provides license to agents. This gives clients some faith. I intend to make it safe and valuable to both parties.
-On this platform, agents can list properties and the can be rated...Users can buy properties, comment about the properties and rate agents.
+What motivated me to work on this project is the fact that anytime I searched for a house in a new area, it would be hard to find agents because some of them are out to scam people or sometimes just dificult to work with. So this platform provides licensed agents. The value that the platform brings to the users is efficincy, time saving, safety and to some extent saves clients money.
+On this platform, agents can list properties and the can be rated...clients can buy properties, comment about the experiences.
