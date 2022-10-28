@@ -35,9 +35,9 @@ inputs = [1, 1, 1, 3, 3, 4, 3, 2, 4, 2]
 ```
 ## Solution
 
-> We loop through the numbers list while appending each number into the new list
-> If the number is in the number being appended has a duplicate in the new list,
-> the function returns True otherwise if the numbers are added completely into the new list without duplicates we return False.
+> We loop through the numbers list while appending each number into the new list.
+> If the number being appended has a duplicate in the new list,
+> the function returns True otherwise, if the numbers are added completely into the new list without duplicates we return False.
 ```python:title=duplicate.py
 
 def containsDuplicate(nums):
@@ -52,3 +52,4 @@ def containsDuplicate(nums):
 #Time complexity: O(n)
 #Space: O(n)
 ```
+The time complexity of the solution is `O(n)` and space of `O(n)`.
