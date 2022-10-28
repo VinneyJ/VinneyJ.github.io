@@ -1,7 +1,7 @@
 ---
 date: '2022-08-01'
-title: 'DevOps_Microservices'
-github: 'https://github.com/VinneyJ/DevOps_Microservices'
+title: 'Machine Learning Inference Micro-service'
+github: 'https://github.com/VinneyJ/Machine-Learning-Inference-Microservice'
 external: ''
 tech:
   - Python(Flask-API, pandas, matplotlib, seaborn, numpy)

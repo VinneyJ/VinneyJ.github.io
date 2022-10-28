@@ -13,5 +13,3 @@ url: 'https://www.machinitecnologies.com/'
 - Utilize industry best practice and adhere to the company’s documented coding standards to make and test features.
 
 - Using Selenium, built out a unit testing infrastructure for the web application that reduced the number of bugs reported by clients by 12% over the month.
-
-- Help keep relevant internal documentation up to date.

@@ -7,6 +7,7 @@ skills:
   - CI/CD(CircleCI, Github Action, Ansible)
   - AWS(CloudFormation, S3, Route53, Cloudwatch, EC2, CloudFront, IAM, RDS, ECS)
   - JavaScript/jQuery
+  - Ruby on rails
   - Git
   - SQL
   - Docker
@@ -19,7 +20,8 @@ skills:
 Hello! Interestingly, I started learning programming in my first year at [Riara University,  Nairobi,Kenya](https://www.riarauniversity.ac.ke) where I did Computer Science in (2017-2021).
 I later enrolled for a Software Engineering bootcamp at **ALX AFRICA** in (2021-2022) and then enrolled for DevOps Engineer Nanodegree from **UDACITY**. 
 
+I design, build and deploy software  everything I make starts with you. I create the products you tell me you wish existed. I believe in thoughtful design, and enabling conversation. But most of all, I believe that creating solutions is about having fun, wherever we are in our journey.
 
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
+It's nice to meet you! Take a peek around the area now that you are here. Please have a look at my work and let me know what you think.
 
 Here is a list of the technologies that I'm familiar with!

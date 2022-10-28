@@ -1,19 +1,19 @@
 ---
-date: '2022-0-1'
-title: 'Backend Engineer'
+date: '2022-10-13'
+title: 'Junior Backend Engineer'
 company: 'Skylux Tech'
-range: 'Jan - Present'
+range: 'Oct - Present'
 url: '#'
 ---
 
-- Work with the back-end team in designing the backend API.
+- Worked alongside another developer to implement RESTful APIs in Django that enabled the internal
+analytics team to increase reporting speed by 23%.
 
-- Help designing the backend database system to be able to work efficiently and scalable.
+- Collaborated with an agile team of 4, and helped prioritize and scope features requests to ensure that
+the biggest impact features were worked on first.
 
-- Integrate the firebase authentication with the django backend.
+- Built extensive test coverage for new features, this reduced the number of customer complaints by
+22%.
 
-- Take part in the overall design of the system.
-
-- Containerized and orchestrated of the system on Google cloud platform.
-
-- Build new features of the lead generator and the CRM.
+- Acquired and ingested data to build and maintain data pipelines that led to discovering an opportunity
+for a new site feature, boosting revenue by 32%.
