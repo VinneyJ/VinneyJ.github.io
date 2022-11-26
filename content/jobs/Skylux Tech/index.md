@@ -2,14 +2,13 @@
 date: '2022-10-13'
 title: 'Junior Backend Engineer'
 company: 'Skylux Tech'
-range: 'Oct - Present'
+range: 'Oct 2021 - Nov 2022'
 url: '#'
 ---
 
-- Worked alongside another developer to implement RESTful APIs in Django that enabled the internal analytics team to increase reporting speed by 23%.
-
-- Collaborated with an agile team of 4, and helped prioritize and scope features requests to ensure that the biggest impact features were worked on first.
-
-- Built extensive test coverage for new features, this reduced the number of customer complaints by 22%.
-
-- Acquired and ingested data to build and maintain data pipelines that led to discovering an opportunity for a new site feature, boosting revenue by 32%.
+• Reduced the number of customer complaints by 88% in 2 weeks by building a new extensive test feature using Coverage and
+Pytest tools to slowly solve the bugs.
+• Increased reporting speed for the internal analytics team by 23% by implementing RESTful API that enabled the same.
+• Collaborated with an agile team of 4 to prioritize and scope feature requests to ensure that the most significant impact features were worked on first.
+• Amplified our CI/CD release speed by 90% through GitHub Actions automation, which created new docker images and sent them
+to AWS ECR, from which ECS spun new containers with the latest changes.

@@ -1,14 +1,14 @@
 ---
 title: 'Hello World! My name is'
 name: 'Vincent Otieno'
-subtitle: 'The code is all out there. I just arrange it in a financially rewarding way.'
+subtitle: 'I am a continous learner and I to love explore the realm of knowledge.'
 buttonText: 'Contact Me'
 ---
 
 I am a young software engineer passionate about building innovative systems that improve company efficiency and effectiveness.
 
-Currently working as a Back-end Developer at [Skylux Tech]() and as a volunteer Software Engineer at [Machini Technologies]().
+I Working as a Back-end and DevOps Engineer at [Skylux Tech]() and as Full-stack Software Engineer at [Machini Technologies]().
 
 
-Outside my normal work, I occasionally blog on [Medium](https://vincent-otieno.medium.com/) and [Memories](https://itsvince.me/pensive).
+Outside my normal work, I occasionally blog on [Medium](https://vincent-otieno.medium.com/) and [Memories](https://itsvince.me/pensieve).
 

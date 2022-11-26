@@ -14,4 +14,4 @@ tech:
 showInProjects: false
 ---
 
-Utilized a CI/CD pipeline to build, test, analyze, create infrastructure, configure infrastructure and deploy the project on AWS using Clouformation.
+Utilized a CI/CD pipeline to build, test, analyze, create infrastructure, configure infrastructure and deploy the project on AWS using Cloudformation.
