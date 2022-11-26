@@ -1,7 +1,7 @@
 ---
 title: 'Hello World! My name is'
 name: 'Vincent Otieno'
-subtitle: 'I am a continous learner and I to love explore the realm of knowledge.'
+subtitle: 'I love to explore the realm of knowledge.'
 buttonText: 'Contact Me'
 ---
 
